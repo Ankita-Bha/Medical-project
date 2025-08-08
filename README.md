@@ -53,7 +53,7 @@ Medical-project/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Ankita-Bha/Medical-project.git
 cd Medical-project
 ```
 
